@@ -1,0 +1,462 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The plain mans plain path-way to heaven directing every man how he may be saved.</title>
+            <author>Hart, John, D.D.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1665</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 36 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45729</idno>
+            <idno type="STC">Wing H957</idno>
+            <idno type="STC">ESTC R40948</idno>
+            <idno type="EEBO-CITATION">19537839</idno>
+            <idno type="OCLC">ocm 19537839</idno>
+            <idno type="VID">109058</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A45729)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 109058)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1689:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The plain mans plain path-way to heaven directing every man how he may be saved.</title>
+                  <author>Hart, John, D.D.</author>
+               </titleStmt>
+               <editionStmt>
+                  <edition>The four and thirtieth edition, with many additions.</edition>
+               </editionStmt>
+               <extent>[24] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Eliz. Andrews ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1665.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Very seasonable for these times."</note>
+                  <note>Illustrated t.p.</note>
+                  <note>Attributed to Hart by Wing and NUC pre-1956 imprints.</note>
+                  <note>Advertisement: p. [24].</note>
+                  <note>Imperfect: tightly bound, with slight loss of print.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian life --  Early works to 1800.</term>
+               <term>Salvation.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:109058:1"/>
+            <p>PLAIN MANS Plain Path-way to HEAVEN. Directing every man how he may be ſaved. <hi>Very ſeaſonable for theſe Times.</hi>
+            </p>
+            <p>The four and thirtieth Edition, with many Additions.</p>
+            <q>
+               <bibl>
+                  <hi>
+                     <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>n 14.6.</hi>
+               </bibl>
+               <p>
+                  <hi>Jeſus ſaith unto them, I am the War <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> Truth, and the Life.</hi>
+               </p>
+            </q>
+            <figure>
+               <head>Who ſo would know the way to Heaven above, <hi>Chriſt is</hi> the Way, Faith, Hope, and Love</head>
+            </figure>
+            <p>
+               <hi>London,</hi> Printed for <hi>Eliz. Andrews,</hi> at the White Lion near <hi>Py-eCorner.</hi> 1665.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:109058:2"/>
+            <head>The Plain Mans Plain Path-way to HEAVEN.</head>
+            <epigraph>
+               <q>
+                  <bibl>Mat. 7.13, 14.</bibl>
+                  <p>Enter ye in at the ſtrait gate: for wide is the gate, and broad is the way that leadeth unto deſtruction, any many there be that go in thereat: but ſtrait is the gate, any narrow is the way that leadeth to life, and few there be that finde it.</p>
+               </q>
+            </epigraph>
+            <p>THeſe words, Beloved, are the words of our Bleſſed Lord and Saviour Jeſus Chriſt: and therefore doe crave every good Chriſtians atten<g ref="char:EOLhyphen"/>tion, being ſpoken by ſo good a Maſter, who not onely loved us, but laid down his life for us; as it is, <hi>Rom. 5.6, 7. Whileſt we were ſinners, Chriſt died for us.</hi> And beloved, they are not onely the words of good counſel; good counſel not for the body onely, but for the ſalva<g ref="char:EOLhyphen"/>tion of our ſouls; plainly declaring unto us the way to Heaven, which is not the common beaten road of the world. The way to Heaven is
+<pb facs="tcp:109058:2"/>a ſtrait and narrow way, a hard way, and a thorny way, and whoſoever would be ſaved, muſt walk in this way. Beloved, I beſeech you to conſider, Heaven coſt our Saviour a dear price, his precious life and blood, and had he not ſhed his blood, it had been impoſſible for us to have come to Heaven. And beloved, conſider alſo, that notwithſtanding it coſt Chriſt his Life to purchaſe heaven for us, yet it is no eaſie matter to get to heaven: the way to heaven is altoge<g ref="char:EOLhyphen"/>ther up the hill, and though it be painful and dif<g ref="char:EOLhyphen"/>ficult, yet it is worth our pains at laſt, there are treaſures in heaven, joyes unſpeakable, and full of glory, ſuch things as St. <hi>Paul.</hi> ſaith, <hi>1 Cor. 2.9. That eye hath not ſeen, ear hath not heard, neither hath it entred into the heart of man to conceive the things that God hath laid up for thoſe that love him.</hi> God hath laid them up for us. Did we but ſeri<g ref="char:EOLhyphen"/>ouſly conſider the happineſs of the ſaints in hea<g ref="char:EOLhyphen"/>ven, we ſhould be willing to undergo any thing here below, ſo we might get thither. It is the opinion and fond conceit almoſt of all men, that they ſhall go to heaven, and they hope to be ſaved as well as the beſt, though they walk not in the way. But let them take heed how they deceive their own ſouls, for the Scripture ſayes plainly, that thoſe that would be ſaved, muſt firſt be new creatures, they muſt be born again, <hi>John 3. Ex<g ref="char:EOLhyphen"/>cept a man be born again, he cannot enter into the Kingdom of Heaven.</hi> Secondly, they muſt not
+<pb facs="tcp:109058:3"/>live after the fleſh and luſts of men, but after the will of God, <hi>1 Pet. 4.2.</hi> And how doth God in his word ſay men ſhould live, if they would be ſaved? Firſt, we muſt live a life of faith, <hi>He that believeth ſhall be ſaved; but he that believeth not, is condemned already, the wrath of God abideth on him, John 3.36.</hi> Secondly, he that would be ſaved muſt repent, <hi>God commands all men every where to repent, Acts 17.30.</hi> Repentance muſt fol<g ref="char:EOLhyphen"/>low after faith, Thirdly, we muſt be willing to forſake all for Chriſt. And the young man ſaid unto him, <hi>Good maſter, what ſhall I do to be ſa<g ref="char:EOLhyphen"/>ved?</hi> ſaith Chriſt, <hi>Sell all that thou haſt, and give to the poor, and follow me, and thou ſhalt have trea<g ref="char:EOLhyphen"/>ſure in heaven, Mat. 19.21.</hi> Men muſt not ſay, I have bought a Farm, I have married a Wife, therefore I cannot come. Fourthly, thoſe that would be ſaved muſt be holy and unblameable, walking as Chriſt walked: they muſt dye unto ſin, and live unto righteouſneſs, for no unrigh<g ref="char:EOLhyphen"/>teous perſon ſhall inherit the Kingdom of Hea<g ref="char:EOLhyphen"/>ven, <hi>1 Cor. 6.10.</hi> Heaven is the reward of holi<g ref="char:EOLhyphen"/>neſs. <hi>Having your fruit unto holineſs, and the end everlaſting life, Rom. 6.22.</hi> And laſtly, he muſt not do this once or twice, but he muſt ſerve the Lord in righteouſneſs and true holineſs all the dayes of his life, <hi>Luke 1.75.</hi> For he that continues unto the end ſhall be ſaved, <hi>Mat. 20.21.</hi> There<g ref="char:EOLhyphen"/>fore unleſs men be ſuch as God in his word re<g ref="char:EOLhyphen"/>quires they ſhould be, in vain do they ſay, they
+<pb facs="tcp:109058:3"/>hope to be ſaved by Chriſt, unleſs they live as Chriſt lived, holy as he was holy; for certainly all thoſe that live in ſin, and dye in ſin without repentance, ſhall come ſhort of heaven. And tru<g ref="char:EOLhyphen"/>ly beloved, heavenly counſel was never more needful then now, in theſe laſt and worſt of times, which abound ſo much with ſin and wic<g ref="char:EOLhyphen"/>kedneſs, which plainly ſhews that theſe are the laſt times, as St. <hi>Peter</hi> ſaith, <hi>2 Pet. 3.3. In the laſt days ſhall come ſcoffers, walking after their own un<g ref="char:EOLhyphen"/>godly luſts, ſelf-lovers, covetous, blaſphemers, proud, diſobedient to parents, unthankful, unholy, truce-breakers, falſe accuſers, deſpiſers of thoſe that are good, traitors, lovers of pleaſure more then lovers of God, 2 Tim. 3.</hi> all which things the Lord knows is too evidently ſéen among us at this day.</p>
+            <p>How is religion and the wayes of God ſcorn'd and reproached at this day, not onely by looſe and laſcivious perſons, as ſwearers, drunkards, Sab<g ref="char:EOLhyphen"/>bath-breakers, and ſuch like ungodly wretches, but by a generation of Vipers ſprung up amongſt us in theſe our dayes, called Quakers, Shakers, and Ranters, who pretend holines, and are out ward<g ref="char:EOLhyphen"/>ly cloathed in Séeps cloathing, but are indeed ſuch as our Saviour ſpeaks of in <hi>Matth. 7.15. Wolves in ſheeps cloathing,</hi> who deſpiſe Domini<g ref="char:EOLhyphen"/>ons, and ſpeak evil of Dignities; ungodly men, turning the grace of God into wantonneſs, de<g ref="char:EOLhyphen"/>nying the onely Lord God, and our Saviour Jeſus Chriſt, as St. <hi>Jude</hi> ſaith, <hi>Who reſiſt the
+<pb facs="tcp:109058:4"/>truth, being men of corrupt mindes; having a form of godlineſs, but denying the power thereof, 2 Tim. 3.5 Profeſſing they know God, but in works they deny him, being abominable and diſobedient and to every good work reprobate, Tit. 1.6.</hi> Laboring to beat down Magiſtracy and Miniſtry, which is the great work the Devil aims at: that ſo he may the more eaſily delude ſouls. If once the Devil could but beat down Miniſtry and Ma<g ref="char:EOLhyphen"/>giſtracy, he would go in deluding ſouls with<g ref="char:EOLhyphen"/>out oppoſition, all were his own then. And therefore the counſel St. <hi>Judge</hi> gave the Chriſti<g ref="char:EOLhyphen"/>ans in his dayes, is now very ſeaſonable in theſe ungodly times, for every good Chriſtian: <hi>That they ſhould beware, leſt they be led away with the error of thoſe wicked ones, and ſo fall from their own ſtedfaſtneſs, and come ſhort of Heaven, bring<g ref="char:EOLhyphen"/>ing upon themſelves ſudden deſtruction.</hi>
+            </p>
+            <p>And indeed this Epiſtle of St. <hi>Jude</hi> is very ſeaſonable for theſe times, and I beſeech every good Chriſtian ſeriouſly to read it, ſée there the dreadfull Judgement of God againſt ſinners, which are written for our examples; not that we ſhould follow them, but that we would he afraid to ſin againſt God, as they did. For certainly if God ſpared neither the old world, nor the Iſrae<g ref="char:EOLhyphen"/>lites, nor the Angels that fell, but hath reſerved them in everlaſting chains, under darkneſs, un<g ref="char:EOLhyphen"/>til the Judgement of the great day, he will not ſpare us if we ſin as they did, And likewiſe <hi>So<g ref="char:EOLhyphen"/>dom</hi>
+               <pb facs="tcp:109058:4"/>and <hi>Gomorrah,</hi> and the Cities about them, are ſet forth for an example, ſuffering the venge<g ref="char:EOLhyphen"/>ance of eternal fire. God hath hung them out in chains, that all may take notice and be affraid to ſin as they did; and certainly God is the ſame God now as he was then: he's yeſterday, to day, and for ever the ſame; and if we will (notwith<g ref="char:EOLhyphen"/>ſtanding his examples) preſume to go on in ſin, he will certainly bring upon us the ſame judge<g ref="char:EOLhyphen"/>ments. And truly the ſins of <hi>Sodom</hi> are at this day the ſins of <hi>England,</hi> pride and fulneſs fo bread, the Lord grant we have not the judgement of <hi>So<g ref="char:EOLhyphen"/>dom,</hi> fire and brimſtone, e're long, poured down upon us. Let <hi>England</hi> eſpecially <hi>London,</hi> ſeri<g ref="char:EOLhyphen"/>ouſly remember the ſad examples of fire. Now then Chriſtians, I beſeech you take the good counſel of St. <hi>Paul, Eph. 6.11, 12. Put on the whole armor of God,</hi> for never was more need; now the Devil is moſt buſie to deſtroy ſouls, it becomes Chriſtians to be the beſt armed, we ſhould count it folly and madneſs in that man that ſhould know the thief would come and rob him, and yet would not provide and arm himſelf againſt him. Now ſirs conſider, the Devil ſeeks to rob you of your precious ſouls, therefore arm your ſelves, be not unprovided when you may be armed: the armor of God is armor of proof, and will bear off all the fiery darts of Satan. <hi>Reſiſt the Devil and he will fly from you, Jam 4.7.</hi> The devil is not able to hurt that ſoul that hath on the armor of God; and
+<pb facs="tcp:109058:5"/>what this armor of God is St. <hi>Paul</hi> tells us in <hi>Epheſ. 6.14, 15, 16, 17, 18. Stand therefore, having your loins girt about with truth; and having on the breaſt-plate of righteouſneſs, and your feet ſhod with the preparation of the Goſpel of peace. A<g ref="char:EOLhyphen"/>bove all, taking the ſhield of Faith, wherewith ye ſhall be able to quench all the fiery darts of the wicked. And take the helmet of ſalvation, and the ſword of the ſpirit, which is the word of God, praying alwayes with all prayer and ſupplication in the Spirit, and watching thereunto with all perſe<g ref="char:EOLhyphen"/>verance. For whoſoever ſhall call on the name of the Lord ſhall be ſaved, Rom. 10.13.</hi>
+            </p>
+            <p>And this is the armor which every one that would go to heaven muſt put on; for either we muſt be the ſouldiers of Chriſt, or the ſlaves of the Devil, for all thoſe that fight under Satan are his ſlaves, therefore let us put on this armor of God, and work out our ſalvation with fear and trembling. To which end our Saviour di<g ref="char:EOLhyphen"/>recteth, and plainly ſhews us the may to heaven, which although it be a hard may, and a ſtrait may, yet it leadeth unto a bleſſed life; and what though we be ſcratcht in the way with briars and thorns, and endure ſome hardſhip for a time, yet when we come to Heaven, it will ſurely makes us amends at laſt.</p>
+            <p>Did not our Saviour himſelf and all his Pro<g ref="char:EOLhyphen"/>phets and Apoſtles go to heaven throught many difficulties? How were they buffeted, ſcourged,
+<pb facs="tcp:109058:5"/>and mocked, yea, ſpitted on, and ſpitefully uſed by wicked and ungodly men? did it not coſt CHRIST his dear life and precious blood to purchaſe life and heaven for us? Did not the Saints of GOD in all ages willingly endure any thing for heaven; they were content to part with all, knowing they had in Heaven a better and a more enduring ſubſtance. See what they ſuffered with joy for heaven, <hi>Heb. 11. Abraham</hi> left his Country and inheritance. <hi>Moſes</hi> forſook <hi>Egypt, chuſing rather to ſuffer with Chriſt, then to enjoy the pleaſures of ſin. And others ſtopped the mouths of Lions, quenched the violence of the fire; were tortured, had trial of cruel mockings, yea, bonds and impriſonments. They were ſtoned, ſawn aſunder, ſlain with the ſword, wandred about in ſheeps skins and goats skins, being deſtitute, af<g ref="char:EOLhyphen"/>flicted, tormented, wandering in mountains and deſarts, dens, and corners of the earth, Of whom</hi> (ſaith the Apoſtle) <hi>the world was not worthy.</hi> They of whom the world was not worthy, were accounted by wicked and ungodly men not wor<g ref="char:EOLhyphen"/>thy for to live and ſojourn in the World. Did not all the Martyrs ſuffer death with joy for heavens ſake, according to that Scripture. <hi>Ac<g ref="char:EOLhyphen"/>count it all joy when ye fall into diver temptations, Jam. 1.2.</hi> How did <hi>Paul</hi> and <hi>Silas</hi> ſing in priſon, <hi>Acts 16.35. They rejoyced God accounted them worthy to ſuffer for heaven.</hi> They were reſolved no difficulty ſhould debar them from Heaven:
+<pb facs="tcp:109058:6"/>being perſwaded, that neither death, nor life, nor things preſent, nor things to come, neither tribulations, nor perſecutions, nor any thing elſe ſhould hinder him from Heaven. <hi>Rom. 8.38.</hi> Chriſt having told them, <hi>That they ſhould be ha<g ref="char:EOLhyphen"/>ted of all men for his name ſake,</hi> Yea, <hi>they that kill'd them ſhould think they did God good ſervice, John 16.2.</hi> Becauſe they belonged to Heaven, therefore the world hated them: they were aſſu<g ref="char:EOLhyphen"/>red of the truth of the word of God, which ſaith, <hi>That through many tribulations we muſt enter into the Kingdom of Heaven.</hi> And is it not much better to ſuffer here a light affliction, as the Apo<g ref="char:EOLhyphen"/>ſtle calls it, which is but for a moment, then for a little ſeaſon to enjoy the pleaſures of ſin, and be eternally in hell in everlaſting torments, which ſhall never have end? O conſider this all ye that forget God, and deſpiſe his word and Mi<g ref="char:EOLhyphen"/>niſters! Know this all ye Ranters, Quankers, Drunkards, and Swearers, who mock at the word of God, God will one day reckon with you for all your ungodly courſes and works of dark<g ref="char:EOLhyphen"/>neſs; and then your maſter the devil, whom you ſo much delighted to ſerve, will pay you your wages fire and brimſtone, eternal torments for ever: and then you will wiſh and ſay, when it is too late, O that I had ſerved God! O that I had not walked in theſe ungodly courſes! When God cryed unto you to repent, you would not hear; and now you are in hell, roaring and cry<g ref="char:EOLhyphen"/>ing
+<pb facs="tcp:109058:6"/>to be eaſed of your endleſs torments, God will not hear you. At the day of judgement the yes of wicked men ſhall be opened; they could <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e no pleaſure in the wayes of God, but ſtill their <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>elight was in ſin, it was ſport and paſtime for <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hem to ſin and offend the Lord. O, but what <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ould they now give to be ſaved: they who be<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re would not forſake any one of their ſinnes, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hough it were to ſave their ſouls, now they <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ould give ten thouſand worlds if they had <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hem, to have but one hours eaſe and liberty to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>et ſalvation: <hi>What ſhall if profit a man to gain <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he whole world and loſe his own ſoul? Mat. 15.19.</hi> Let every one therefore repent; and turn un<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o the Lord, for he is merciful and full of com<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aſſion: ſtrive to enter in at the ſtrait gate, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd do not deceive your poor ſouls, by thinking <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ou ſhall go to heaven for your good meaning: For it is written, <hi>Not every one that ſaith unto <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he Lord, Lord, ſhall enter into the Kingdom of hea<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>en</hi> (ſaith Chriſt) <hi>but he that doth the will of my Father, which is in heaven, Mat. 7.21.</hi> Men think <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f they do but come to Church, and have a good <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eaning they ſhall be ſaved: O how many de<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eive themſelves by this? St. <hi>Cryſoſtom,</hi> who <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>reached to that great City of <hi>Antioch,</hi> did be<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ve, that of two hundred thouſand that came to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ear the word, ſcarce an hundred ſouls ſhould be <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aved: for if men would be ſaved, they muſt not <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nely be hearers, but doers of the word, as St.
+<pb facs="tcp:109058:7"/>
+               <hi>James ſaith, Jam. 1.22.</hi> The Scribes and Phari<g ref="char:EOLhyphen"/>sees thought they ſhould go to heaven before any other, why: They faſted, they gave alms, they did more then come to Church; and yet they came ſhort of heaven: And doth not Chriſt ſay, <hi>That except your righteouſneſs ſhall exceed the righte<g ref="char:EOLhyphen"/>ouſneſs of the Scribes and Phariſees, ye ſhall never inherit the Kingdom of Heaven, Matth. 5.10.</hi> O how many thouſands are there in <hi>England</hi> whoſe righteouſneſs comes infinitely ſhort of the righteouſneſs of the Scribes and Phariſees; nay, indeed have none at all, neither ſeek for any; but on the contrary, delight in nothing but un<g ref="char:EOLhyphen"/>cleanneſs, drunkenneſs, and other laſcivious ſins: Of which St <hi>Paul</hi> ſaith, <hi>They that live and dye in them, ſhall never inherit the Kindom of Heaven, 1 Cor. 6.10. But ſhall be caſt into utter darkneſs, where ſhall be weeping and wailing, and gnaſhing of teeth.</hi>
+            </p>
+            <p>O that men would be wiſe, and conſider their latter end, for as the free falls, ſo it lies: If men will live in their ſins, they ſhall dye in their ſins, and periſh for ever. <hi>For without holineſs no man ſhall ſee God, Heb. 12.14.</hi>
+            </p>
+            <p>The young man in the Goſpel, he enquired after ſalvation, ſaving, <hi>Good maſter, what ſhall he do to be ſaved?</hi> But how many are there in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> who never in all their life long ſo much as think of heaven, and the ſalvation of their precis ous ſouls: let the Lord call never ſo loud by the
+<pb facs="tcp:109058:7"/>voice of his Miniſters, lifting up their voice like trumpet, or by the voice of his words and works; <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y his mercies which ſhould invite men to come <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>n, by his Iudgements which ſhould affright <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hem: how do they he ſnorting and ſleeping in <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>heir ſin, and never awake? But let the world <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>all, and preſently they ſtir: let but a door be open<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d how to get riches, and be great in the world, how do men thruſt and throng, and every one trives to go before another; but the Miniſters of God may cry and call till their hearts ake for men to get to heaven, and then ſadly complain to the Lord, as Iſaiah did, <hi>Iſa. 53.1. Lord who hath be<g ref="char:EOLhyphen"/>ieved our report?</hi> We have toil'd all day, all the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ayes of our lives, and have caught nothing. The Net of the Goſpel hath been alwayes ſpread out, and yet ſcarce one ſoul taken in it. We read <hi>Acts 2.40.</hi> that at a Sermon of St. <hi>Peters,</hi> three tho<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>land ſouls were converted to the Lord: but now we may hear three thouſand Sermons preached, and ſcarce one ſoul brought to heaven. Men are altogether of <hi>Gallio's</hi> mind, <hi>Acts 18.17. They care not for theſe things.</hi> Never was there ſince the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ayes of <hi>Adam</hi> ſo much means of grace and ſal<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ation as now: have we not Line upon Line, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>recept upon Precept, Sermon upon Sermon, Mercy upon Mercy, and yet all will not do; men <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>op their ears, and refuſe, to hear the voice of the Charmer, charm he never ſo wiſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly: O I <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ear it will be more tollerable for Sodom and
+<pb facs="tcp:109058:8"/>
+               <hi>Gomorrah</hi> in the day of judgement, then for <hi>Eng<g ref="char:EOLhyphen"/>land:</hi> And not onely the men of <hi>Nineve, but</hi> th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>cruel Jews and Turks, ſhall riſe up in judge<g ref="char:EOLhyphen"/>ment againſt us except we repent. <hi>Englands</hi> hel<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> will be hotter then the Indians hell. What na<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>tion or people is there at this day, that God hat beſtowed ſo many mercies on as upon <hi>England</hi> the Lord hath given us not onely his Goſpel, but alſo peace and plenty of all things. And yet not with ſtanding the Grace of God hath ſo abounded towards us, that we have turn'd his Grace into mantouneſs; becauſe the goodneſs and mercy of our God hath abounded towards us, we have made our ſins to ſuperabound againſt him. Now juſtly might the Lord for our unſworthineſs even cauſe the devouring ſword to be unſheath<g ref="char:EOLhyphen"/>ed again among us, and cauſe us to ſheath it in one anothers bowels again: and not onely ſent the ſword among us again, which is ready to b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> drawn, but his deſtroying Angel with that ſave and heavy judgement the noyſome Peſtilence which the Lord hath been pleaſed in much mercy to keep from among us a long time, even to ad<g ref="char:EOLhyphen"/>miration, and even ſweep us away in his wrath and indignation, even every one of us: <hi>It is the Lords mercy we are not conſuined, Lam. 3.22.</hi> Did not the Lord renew his mercies every morning, we ſhould, be in hell ere night. Ah the Lord ſpare us, and have mercy on us, for it is greatly to be feared theſe three heavy judgements, <hi>Plague, Fa<g ref="char:EOLhyphen"/>mine</hi>
+               <pb facs="tcp:109058:8"/>and Sword <hi>are even</hi> ready to fall upon us. How juſtly might the Lord give us a Famine, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ot onely of bread, but alſo of hearing the word of the Lord, even becauſe we have deſpiſed it, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>and loathed it, as the Iſraelites did the Manna be Lord rained from Heaven: heavenly food, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd it was loathed by wretched men.</p>
+            <p>How ſadly the Lord hath cauſed <hi>Ireland</hi> and <hi>Germany</hi> ſo feel theſe three heavy Iudgements, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s freſh in every mans memory, and is not <hi>Eng<g ref="char:EOLhyphen"/>land</hi> as ſinful a Nation as any of theſe were? <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ea, <hi>England</hi> is at this day an unthankful and unholy people, a rebellious Nation, who ſtand <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t out againſt the Lord. But let <hi>England</hi> know, the Lord will be revenged on them. <hi>Shall I not be revenged on ſuch a Nation as this?</hi> (ſaith the Lord) Yea, <hi>I will be revenged on them.</hi> O that men would ſee the goodneſ of the Lord, and now to day, even while it is call'd to day, and turn to the Lord by repentance, for who knows whether the Lord will have mercy? Yea, he will have mercy upon us if we repent. <hi>As I live</hi> (ſaith the Lord) <hi>I deſire not the death of a ſinner, but rather that he ſhould turn from his wickedneſs and repent. Turn ye, turn ye,</hi> ſaith the Lord <hi>Ezek. 33.12. and I will have mercy upon you.</hi> If there could have hin found but ten righteous perſons in <hi>Sodom,</hi> God would have ſpare it, <hi>Gen. 8.33.</hi> And may not <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Lord us, yea, he will ſpace us if we re<g ref="char:EOLhyphen"/>pent. See what the Lord ſaith, <hi>Iſa. 55.7. Let the
+<pb facs="tcp:109058:9"/>wicked forſake his way, and the unrighteous man his thoughts, and turn to the Lord, and he will have mercy on them.</hi> Let every one therefore ſpeedily repent without delay, and ſtrive who ſhall begin firſt: if every one would ſweep his own door, the whole ſtreet would ſoon be clean; and if every one would repent of his own ſins, the ſins of the Nation would ſoon be blotted out. <hi>Yet forty daye<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and Nineve ſhall be beſtroyed,</hi> ſaith the Lord; and yet upon their repentance, the Lord pardoned them: and if ever they would go to heaven it muſt he by faith and, repentance: for no repentance, no ſalvation <hi>Except ye repent, ye ſhall all likewiſe periſh,</hi> ſaith our Saviour, <hi>Luke 13.3. Without holi<g ref="char:EOLhyphen"/>neſs no man ſhall ſee the Lord, Heb. 12.14.</hi> and with<g ref="char:EOLhyphen"/>out repentance there can be no holineſs, for holi<g ref="char:EOLhyphen"/>neſs is the fruit of repentance: if we be not holy here; we ſhall never be happy hereafter. God himſelf hath ſaid ſo, and he is no lyar. The devil may perſwade you otherwiſe, but he is a lyar, and the father of lyes, <hi>John. 8 8.</hi> he will perſwade you ſo, onely to delude your ſouls, and draw you into hell: he ſpeaks you fair, but it may be he will tell you another tale in hell. He is like a great Bragadocio, that promiſeth great things, but indeed hath nothing to pay but hell and damna<g ref="char:EOLhyphen"/>tion: <hi>All this will I give thee if thou wilt fall down and worſhip me,</hi> ſaith the devil to our Saviour, <hi>Mat. 4.</hi> But I pray whoſe is the world? <hi>Is not the earth the Lords, and the fulneſs thereof, Pſal. 24.1.</hi>
+               <pb facs="tcp:109058:9"/>The Devil hath nothing at all to do with it, but as the Lord gives him leave. Riches and honor, worldly honour &amp; greatneſs are the devils baits to catch poor ſouls: He lays theſe things before their eyes, but it is the ſoul he aims at, let him ſay what he will, the end of his work is onely to delude and deſtroy poor ſouls; the Devil promi<g ref="char:EOLhyphen"/>ſeth much, and hath nothing to pay but hell and damnation, and yet how many believe him? Let the Lord ſay, here is my Chriſt, take him, much good may he do you; here's pardon of ſin, receive, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>here is life and ſalvation, heaven and happineſs, and who is there that dares to receive? <hi>You will not come to me that you might have life,</hi> (ſaith Chriſt but let but the devil ſay, you may go on in your ſins, take your pleaſure in the world, all <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hall be well with you, it is time enough to re<g ref="char:EOLhyphen"/>pent hereaftrr, how readily do men believe him? But if men did but know and believe whither <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hey are going, when they are going in the ways of ſin, they would go another way. The way of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>in is the broad way to hell, you go me<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ly along, its down the hill you are running; but take heed you will fall into hell at laſt. It is juſt with men going to hell, as it was with the man that was to go over a great River on a narrow Bridge; <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he puts on his ſpectacles, and ſo the bridge ſeem'd wider then it was, and the poor man walks on <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ecurely, and ſo falls beſide the Bridge, and is drowned: wicked men, they look on the world
+<pb facs="tcp:109058:10"/>with the devils ſpectacles, and ſo it ſeems very pleaſant and delightful, and they run on ſecurely (as we ſay) without fear or wit, not conſidering that every ſtep they tread, they are ready to fall into hell. O ſinners conſider, when you are ſin<g ref="char:EOLhyphen"/>ning, you are dancing about the mouth of hell, &amp; if the Lord ſhould but ſnap in ſunder the ſlender thred of your lives, you would preſently fall into hell. Men thing the pleaſures of ſin very ſweet, the Lord knows they are bitterneſs in the latter end: the ſweet meat of ſin will have ſowre ſauce; ſin is the deareſt commodity in the world, you will repent your bargain at laſt, though you ſin at never ſo cheap a rate, you will pay too dear for it: you will ſay then, the devil was to hard for you, he cheated you, you gave him too much. Sin coſt men their lives, and their ſouls more precious then pearls or r<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ies, and loſe heaven too by the bargain. <hi>The <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ges of ſin is death, but the gift of God is eternal life, through Jeſus Chriſt, Rom. 6.22.</hi>
+            </p>
+            <p>Strive therefore to enter in at the ſtrait gate, get to heaven, though the way be hard, yet ſtrive: you have the command of Chriſt, his ex<g ref="char:EOLhyphen"/>ample, the example of all the Prophets and A<g ref="char:EOLhyphen"/>poſtles, and having ſuch a cloud of witneſſes, be not diſcouraged, but run with patience the race that is ſet before you: ſuffer not Satan to deceive you, it you do, you will ſurely repent it when it is too late. Conſider by the example of <hi>Dives</hi> and <hi>Lazarus;</hi> is it not better think you to be in
+<pb facs="tcp:109058:10"/>heaven with <hi>Lazarus,</hi> then to be in hell with <hi>Di<g ref="char:EOLhyphen"/>ves? Dives</hi> he wanted nothing on <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, had the world at will, <hi>fared deliciouſly every day;</hi> but is now in hell, and wants a drop of water. L<gap reason="illegible" resp="#PDCC" extent="6 letters">
+                  <desc>••••••</desc>
+               </gap> he lived in great wants and miſeries, had not wherewithal to relieve his hungry body full of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ores; men they looked ſcornfully on him, and did him not ſo much favour as the dogs: they came and licked his ſo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es, but <hi>Dives</hi> denied him the <hi>ve<g ref="char:EOLhyphen"/>ry crumbs that fell from his table to the Dog<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi> What think you, did not <hi>Lazarus</hi> endure much hardſhip to get to heaven? he was here in much miſery, full of woes; now in <hi>heaven hath rivers of pleaſure, joy unſpeakable, and full of glory.</hi> O beloved, it is better to beg our <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> here with <hi>Lazarus</hi> for a little ſeaſon on earth, then to beg our water with <hi>Dives</hi> in hell to all eternity. We ſhould not fudge that worth much now in the time of our life, which will be of no worth here after. Riches, ſaith <hi>Solomon, make themſelves wings and flee away;</hi> they are uncertain here to day, and gon to morrow, as woful experience tells us, and are worth juſt nothing in the day of Judgement; in the life to come they are worthleſs things, there will be an end of them: <hi>But godlineſs hath the promiſe of the life that now is, and the life to come. 1 Tim. 4.8.</hi> When <hi>Dives</hi> was in his pontiff<g ref="char:EOLhyphen"/>calibus, <hi>had his purple clothing and dainty fare eve<g ref="char:EOLhyphen"/>ry day,</hi> who would not be <hi>Dives</hi> then? almoſt eve<g ref="char:EOLhyphen"/>ry one: But when we read of <hi>Dives</hi> in hell tor<g ref="char:EOLhyphen"/>ments,
+<pb facs="tcp:109058:11"/>then who would be <hi>Dives?</hi> certainly none at all. <hi>Dives</hi> would now be content to be a beg<g ref="char:EOLhyphen"/>ger in the eſtate of <hi>Lazarus</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>en thouſand years i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> he might be releaſed out of his torments. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o likewiſe when we read of poor <hi>Lazarus</hi> a beggar, f<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ll of ſores, wanting bread, in great diſtreſs of body, who would be <hi>Lazarus</hi> in that caſe? certain<g ref="char:EOLhyphen"/>ly none at all. But when <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of <hi>Lazarus</hi> in <hi>Abrahams</hi> boſome, <hi>Lazarus</hi> in heaven, then who would not be <hi>Lazarus</hi> if he might? But if we would be <hi>Lazarus</hi> in heaven, we muſt be <hi>Lazarus</hi> on earth: if we would dye the death of the righ<g ref="char:EOLhyphen"/>teous, we muſt live the life of the righteous: If we would ſit down in the Kingdom of Heaven with <hi>Abraham, Iſaac,</hi> and <hi>Jacob,</hi> and all the Pro<g ref="char:EOLhyphen"/>phets, Apoſtles, and Saints of God; we muſt tread in their ſteps, they have beaten the way, they have made it plain for us if we will, their path is clearly to bée ſeen: we muſt walk as they walked, ſoberly; live as they lived, holy and righteouſly all our dayes; endure hardſhip as they did, as you may ſée in the word of God. What did the Prophets and Apoſtles of our bleſſed Lord and Saviour undergo? St. <hi>Paul tells</hi> us in his book of Martyrs, <hi>Heb. 11. They were perſecuted, ſtoned, impriſoned, ſawn aſunder, moc<g ref="char:EOLhyphen"/>ked, ſcourged, deſpiſed by men, wandred about in ſheep-skins and goat-skins.</hi> And other Apoſtles and Saints we read of, ſome torn in pieces by wilde beaſts, others put in ſcalding oyl, ſome
+<pb facs="tcp:109058:11"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ad their Skins ſtayed off alive, dragged about with horſes, and our <hi>Smithfield</hi> is a good witneſs <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f the ſufferings of the Martyrs: and beſides we <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eard of la<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e the ſad tydings of the ſufferings of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ur Brethren in <hi>Savoy,</hi> which may make every <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ood Chriſtians heart bléed to hear what cruel <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>loody tortures thoſe faithful Chriſtians did en<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ure for the ſake of Chriſt; how they were <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>orcht by fire daſht in pieces againſt the rocks, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ot pittying nor ſparing even tender ſucking <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nfants, but deſtroying all. The Lord make us <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>enſible of his ſaving mercies towards us, that <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e are not delivered into the hands of ſuch bloo<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y wretches; therefore as St. <hi>Paul</hi> ſaith, <hi>Let us run <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ith patience the race that is ſet before us. It is but <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or a little while, and in due time we ſhall receive <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ur reward if we faint not, Heb. 12.2. Let us then <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bour not for the meat that periſheth, but for that <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hich endureth to eternal life.</hi> So demeaning of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ur ſelves here, as thoſe that look for the com<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng of our Lord Ieſus, <hi>who ſhall render to every <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ne according to their works.</hi> And know, that al<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hough the righteous meet with hard fare in the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orld, yet their end ſhall be joy and peace, <hi>Peace <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>at paſſeth all underſtanding.</hi> When the wicked <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>en although they are crowned with roſe-buds, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd hath their paths waſhed in Butter, and <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ve an hundred years in pleaſure, yet they ſhall <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e accurſed: for there will certainly come a day <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hen all mankinde, high and low, rich and poor,
+<pb facs="tcp:109058:12"/>noble and ignoble, ſhall appear na<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> before the great Tribunal of the Lord. And then what will become of riches and honour, beauty and pleaſure? Then the Crowns of Kings, and the rags of Beggars ſhall all be laid aſide; and all without reſpect of perſons receive ſentence ac<g ref="char:EOLhyphen"/>cording to their deeds done in the fleſh. Then pride and luxury, ſwearing and drunkenneſs, ſwaggering, complemental oaths, and all other vile and laſcivious courtings and adorations of beauty, the ſo much admired and ſtudied ſins of the Gallants of the world, ſhall be pronounced out of the mouth of God himſelf, to be nothing elſe but glittering abominations: then the adul<g ref="char:EOLhyphen"/>teraring wares, light and double weights, and falſe meaſures, now almoſt woven into the very art of trading, ſhall be pronounced to be nothing elſe but myſteries of iniquity: and ſelf-decei<g ref="char:EOLhyphen"/>vings, and ſhall be rewarded with eternal fire: and then the poor deſpiſed profeſſion and profeſ<g ref="char:EOLhyphen"/>ſours of the power of godlineſs, who tremble at the word of God, make conſcience of their wayes, and forbear not onely vain and wicked oaths, but alſo idle words, whoſe hearts bléed for the abomination of the times, and the wickedneſs of thoſe among whom they live; who walk hum<g ref="char:EOLhyphen"/>bly and mournfully before the Lord, in an exa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> holy converſation, in the midſt of a crooked an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> perverſe generation, ſhall in good earneſt be pro<g ref="char:EOLhyphen"/>nounced from the mouth of God himſelf, t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb facs="tcp:109058:12"/>have walked in that true and narrow way that <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eadeth to eternal life: then the wicked and ungodly, who mocked at the word of God, when it is too late ſhall be forced to confeſs and ſay, O what fools were we! We accounted their lives madneſs, and judged their end to be without ho<g ref="char:EOLhyphen"/>nour: How are they now reckoned among the Saints, and have their portion in Heaven, <hi>ſit<g ref="char:EOLhyphen"/>ting down with Abraham, Iſaac, and Jacob in the kingdom of their God:</hi> and we who lived in plea<g ref="char:EOLhyphen"/>ſure, and walked in this broad eaſie, and ſmooth way, are tumbled down to hell, there to receive the juſt reward of our ungodly ſayings and do<g ref="char:EOLhyphen"/>ings, eternal torments for ever and ever.</p>
+            <p>Now to conclude all in a word, let every one of us take the good counſel of <hi>Solomon, to remem<g ref="char:EOLhyphen"/>ber our Creator in the dayes of our Youth. Rejoyce O young man in thy youth, and let thy heart chear thee. But know for all this thou muſt come to judgement.</hi> Remember there is both a heaven and a hell; a heaven to reward thée if thou doſt well, a hell to torment thée if thou doſt ill. Labour then to be of the number of thoſe, to whom the Lord ſhall ſay at the laſt and great day of iudge<g ref="char:EOLhyphen"/>ment, <hi>Come ye bleſſed of my Father, inherit the kingdom prepared for you from the begining of the world, Mat. 25 24.</hi> Unto which Kingdom, the Lord of his mercy bring us all.</p>
+            <p>
+               <hi>Now the God of peace, which brought again from the dead the Lord Jeſus Chriſt that great ſhep<g ref="char:EOLhyphen"/>heard
+<pb facs="tcp:109058:13"/>of his ſheep through the blood of the everlaſt<g ref="char:EOLhyphen"/>ing Covenant, make us perfect in every good wor<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and work to do his will, working in us that which i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> well pleaſing in his ſight, through Jeſus Chriſt ou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Lord:</hi> To whom be glory and honour now and for ever. Amen.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <head>Licenſed and Entered according to Order.</head>
+            <p>THeſe godly Books are ſold by <hi>E. Andrews,</hi> at the white Lion neer Pye-Corner.</p>
+            <p>Chriſts firſt Sermon. Chriſts laſt Sermon. Th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Chriſtians Bleſſed Choice. The Chriſtians beſt Gar<g ref="char:EOLhyphen"/>ment. Heavens Happineſs and Hells horrour. Th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> School of Grace.</p>
+            <p>Likewiſe,
+<list>
+                  <item>1. Englands Faithful Phyſician.</item>
+                  <item>2. The dreadful character of a drunkard.</item>
+                  <item>3. Dooms-day at hand.</item>
+                  <item>4. The Fathers laſt Bleſſing to his children.</item>
+                  <item>5. The ſin of Pride arraigned and condemned.</item>
+                  <item>6. The Black Book of Conſcience.</item>
+                  <item>7. Peters Sermon of Repentance.</item>
+                  <item>8. The Plain Mins Plain Path-way to Heaven.</item>
+                  <item>9. Death Triumphant.</item>
+                  <item>10. The Charitable, Chriſtian.</item>
+               </list>
+            </p>
+            <p>Read them over carefully, and practiſe them con<g ref="char:EOLhyphen"/>ſtantly, and reſh aſſuredly thou wilt finde much comfort in them to thy own ſoul.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
